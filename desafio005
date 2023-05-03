@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação</title>
+</head>
+<body>
+    <h1>Minhas Redes Sociais</h1>
+
+    <h2>Quem sou Eu?</h2>
+    <img src="michelecircle.png" alt="Michele Marinho">
+
+    <p>Olá, meu nome é Michele Marinho e estou começando a estudar HTML e CSS aos 34 anos. <br> Estou animada em aprender como criar páginas da web incríveis e estilizadas, <br> e espero poder compartilhar minhas criações com o mundo em breve.</p>
+
+    <p>Ainda estou no começo dos meus estudos, <br> mas já estou aprendendo como estruturar o conteúdo de uma página <br> usando HTML e como estilizar elementos usando CSS. <br> É um processo desafiador, mas também muito gratificante.</p>
+
+    <p>Estou estudando com o Professor Gustavo Guanabara do Curso em vídeo, para aprender. <br> E estou animada para continuar aprendendo e praticando. <br> Espero que, em breve, eu possa criar páginas da web incríveis que inspirem e encantem as pessoas.</p>
+    <p>Obrigada por visitar meu site e espero que você também encontre inspiração em minhas futuras criações.</p>
+
+    <h2>Quer falar comigo?</h2>
+
+    <ul>
+        <li> <img src="icones-sociais/linkedin10px.png" alt="LinkedIn"> Entre em contato no <a href="https://www.linkedin.com/in/michele-marinho-0b11a01b7/" rel="external">LinkedIn</a></li>
+        <li> <img src="icones-sociais/instagram10px.png" alt="Instagram"> Siga-me no <a href="https://www.instagram.com/_imperiomarinho/ " rel="external">Instagram</a></li>
+        <li> <img src="icones-sociais/github10px.png" alt="GitHub"> Acesse meu repositório no <a href="https://github.com/MicheleMarinho" rel="external">GitHub</a></li>
+        <li> <img src="icones-sociais/facebook10px.png" alt="Facebook"> Acesse minha página no <a href="https://www.facebook.com/imperiomarinho" rel="external">Facebook</a></li>
+    </ul>
+</body>
+</html>
